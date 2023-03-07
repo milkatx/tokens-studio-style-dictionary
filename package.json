@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^19.6.1",
+    "style-dictionary": "^3.7.2"
+  }
+}

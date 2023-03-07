@@ -1,0 +1,234 @@
+{
+  "Global Tokens": {
+    "positive": {
+      "darkest": "#002415",
+      "darker": "#083A25",
+      "dark": "#0F5236",
+      "base": "#107048",
+      "light": "#41B483",
+      "lighter": "#7ECEAD",
+      "lightest": "#DEF7ED"
+    },
+    "negative": {
+      "darkest": "#4A1512",
+      "darker": "#72211D",
+      "dark": "#9B2D27",
+      "base": "#BE3E37",
+      "light": "#D58581",
+      "lighter": "#E3AEAB",
+      "lightest": "#F6E6E5"
+    },
+    "warning": {
+      "darkest": "#473400",
+      "darker": "#705200",
+      "dark": "#D8A20E",
+      "base": "#EFBA2A",
+      "light": "#F1CD6A",
+      "lighter": "#F7DD97",
+      "lightest": "#FCF6E3"
+    },
+    "info": {
+      "darkest": "#081536",
+      "darker": "#0F2557",
+      "dark": "#173782",
+      "base": "#23489F",
+      "light": "#7996D7",
+      "lighter": "#B0C1E8",
+      "lightest": "#E3E9F7"
+    }
+  },
+  "Wireframe": {
+    "Brand-01": {
+      "darkest": "$Neutral.dark.95",
+      "darker": "$Neutral.dark.90",
+      "dark": "$Neutral.dark.80",
+      "base": "$Neutral.dark.70",
+      "light": "$Neutral.light.30",
+      "lighter": "$Neutral.light.20",
+      "lightest": "$Neutral.light.10"
+    },
+    "Action": {
+      "default": "$Brand-01.base",
+      "hover": "$Brand-01.dark",
+      "pressed": "$Brand-01.darker",
+      "focus": "$Brand-01.darkest",
+      "disabled": "$Neutral.light.30"
+    },
+    "Neutral": {
+      "light": {
+        "10": "#E5e5e5",
+        "20": "#cccccc",
+        "30": "#b2b2b2",
+        "05": "#F2f2f2",
+        "00": "#FFFFFF"
+      },
+      "mid": {
+        "40": "#999999",
+        "60": "#666666"
+      },
+      "dark": {
+        "70": "#4d4d4d",
+        "80": "#363636",
+        "90": "#1a1a1a",
+        "95": "#0d0d0d"
+      }
+    },
+    "Animalia": {
+      "Brand-01": {
+        "darkest": "#030330",
+        "darker": "#0D0D59",
+        "dark": "#1F1F7A",
+        "base": "#4545A1",
+        "light": "#9898CD",
+        "lighter": "#C2C2E5",
+        "lightest": "#EBEBF5"
+      },
+      "Brand-02": {
+        "darkest": "#18391E",
+        "darker": "#325D39",
+        "dark": "#50955C",
+        "base": "#8DC897",
+        "light": "#B9DFBF",
+        "lighter": "#DCEFDF",
+        "lightest": "#EDF7EF"
+      },
+      "Action": {
+        "default": "$Brand-01.base",
+        "hover": "$Brand-01.dark",
+        "pressed": "$Brand-01.darker",
+        "focus": "$Brand-01.darkest",
+        "disabled": "$Neutral.light.30"
+      },
+      "Neutral": {
+        "light": {
+          "10": "#ECECEE",
+          "20": "#D0D0D7",
+          "30": "#B4B4C0",
+          "05": "#F9F9FA",
+          "00": "#FFFFFF"
+        },
+        "mid": {
+          "40": "#9191A1",
+          "60": "#69697C"
+        },
+        "dark": {
+          "70": "#515162",
+          "80": "#36364A",
+          "90": "#1D1D30",
+          "95": "#060613"
+        }
+      }
+    },
+    "TOTVS": {
+      "Brand-01": {
+        "darkest": "#00182B",
+        "darker": "#002944",
+        "dark": "#013F65",
+        "base": "#045b8f",
+        "light": "#12a2f7",
+        "lighter": "#69c5fc",
+        "lightest": "#B4E2FD"
+      },
+      "Action": {
+        "default": "$Brand-01.base",
+        "hover": "$Brand-01.dark",
+        "pressed": "$Brand-01.darker",
+        "focus": "$Brand-01.darkest",
+        "disabled": "$Neutral.light.30"
+      },
+      "Neutral": {
+        "light": {
+          "10": "#E5e5e5",
+          "20": "#cccccc",
+          "30": "#b2b2b2",
+          "05": "#F2f2f2",
+          "00": "#FFFFFF"
+        },
+        "mid": {
+          "40": "#999999",
+          "60": "#666666"
+        },
+        "dark": {
+          "70": "#4d4d4d",
+          "80": "#363636",
+          "90": "#1a1a1a",
+          "95": "#0d0d0d"
+        }
+      }
+    },
+    "PO-UI": {
+      "Brand-01": {
+        "darkest": "#260538",
+        "darker": "#400E58",
+        "dark": "#5B1C7D",
+        "base": "#753399",
+        "light": "#BD94D1",
+        "lighter": "#D9C2E5",
+        "lightest": "#F2EAF6"
+      },
+      "Action": {
+        "default": "$Brand-01.base",
+        "hover": "$Brand-01.dark",
+        "pressed": "$Brand-01.darker",
+        "focus": "$Brand-01.darkest",
+        "disabled": "$Neutral.light.30"
+      },
+      "Neutral": {
+        "light": {
+          "10": "#ECEEEE",
+          "20": "#DADEDF",
+          "30": "#B6BDBF",
+          "05": "#FBFBFB",
+          "00": "#FFFFFF"
+        },
+        "mid": {
+          "40": "#9DA7A9",
+          "60": "#6E7C7F"
+        },
+        "dark": {
+          "70": "#4A5C60",
+          "80": "#2C3739",
+          "90": "#1D2426",
+          "95": "#0B0E0E"
+        }
+      }
+    },
+    "Whitelabel": {
+      "Brand-01": {
+        "darkest": "#301403",
+        "darker": "#612705",
+        "dark": "#913B08",
+        "base": "#BE571B",
+        "light": "#F69156",
+        "lighter": "#F9BD99",
+        "lightest": "#FCE0CF"
+      },
+      "Action": {
+        "default": "$Brand-01.base",
+        "hover": "$Brand-01.dark",
+        "pressed": "$Brand-01.darker",
+        "focus": "$Brand-01.darkest",
+        "disabled": "$Neutral.light.30"
+      },
+      "Neutral": {
+        "light": {
+          "10": "#ECEEEE",
+          "20": "#DADEDF",
+          "30": "#B6BDBF",
+          "05": "#FBFBFB",
+          "00": "#FFFFFF"
+        },
+        "mid": {
+          "40": "#9DA7A9",
+          "60": "#6E7C7F"
+        },
+        "dark": {
+          "70": "#4A5C60",
+          "80": "#2C3739",
+          "90": "#1D2426",
+          "95": "#0B0E0E"
+        }
+      }
+    }
+  }
+}
